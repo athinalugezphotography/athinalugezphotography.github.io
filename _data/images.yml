@@ -1,0 +1,50 @@
+home:
+
+  - name: clydaad
+    size: 12
+
+studio:
+
+  - name: clydaad
+    size: 4
+  - name: dayna1
+    size: 8
+  - name: dayna2
+    size: 4
+  - name: dayna3
+    size: 8
+
+street:
+
+  - name: Athina_Lugez_photos01
+    size: 4
+  - name: Athina_Lugez_photos02
+    size: 4
+  - name: Athina_Lugez_photos03
+    size: 4
+  - name: Athina_Lugez_photos04
+    size: 4
+  - name: Athina_Lugez_photos05
+    size: 4
+  - name: Athina_Lugez_photos06
+    size: 4
+  - name: Athina_Lugez_photos07
+    size: 4
+  - name: Athina_Lugez_photos08
+    size: 4
+  - name: Athina_Lugez_photos09
+    size: 4
+  - name: Athina_Lugez_photos10
+    size: 4
+  - name: Athina_Lugez_photos11
+    size: 4
+  - name: Athina_Lugez_photos12
+    size: 4
+  - name: Athina_Lugez_photos13
+    size: 4
+  - name: Athina_Lugez_photos14
+    size: 4
+  - name: Athina_Lugez_photos15
+    size: 4
+  - name: Athina_Lugez_photos16
+    size: 4

@@ -24,15 +24,70 @@
           <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
+        {% include analytics.html %}
+
     </head>
     <body>
 
-    {{ content }}
+    <div class="content">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="baskerville text-center" data-spy="affix" data-offset-top="50">
+                        <h2><a href="/" class="title">Athina Lugez<br>Photography</a></h2>
+                        <hr>
+                        <ul class="nav">
+                            <li><h4><a href="/" class="no-link">Home</a></h4></li>
+                            <li><h4><a href="/studio" class="no-link">Studio</a></h4></li>
+                            <li><h4><a href="/street" class="no-link">Street</a></h4></li>
+                            <li><h4><a href="/blog" class="no-link">Blog</a></h4></li>
+                            <li><h4><a href="/contact" class="no-link">Contact</a></h4></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-9">
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="footer">
+            <p class="baskerville text-right"><small>Athina Lugez &copy; 2017</small></p>
+        </div>
+    </div>
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="/js/jquery-1.11.1.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
+    <!-- ImagesLoaded JS -->
+    <script src="/js/imagesloaded.pkgd.min.js"></script>
+    <!-- Masonry JS -->
+    <script src="/js/masonry.pkgd.min.js"></script>
+
+    <script>
+
+        var $grid = $('.grid').masonry({
+            itemSelector: '.grid-item',
+            columnWidth: '.grid-sizer',
+            percentPosition: true
+        });
+
+        $grid.imagesLoaded().progress(function(){
+            $grid.masonry('layout');
+        });
+
+        $('img').bind('contextmenu', function(e) {
+            return false;
+        });
+
+        $('img').on('dragstart', function(e) {
+            e.preventDefault();
+        });
+
+    </script>
 
     </body>
 </html>

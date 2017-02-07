@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div id="post">
+
+	<h2 class="baskerville text-center">{{ page.title | upcase }}</h2>
+	{% if page.subtitle %}
+	<h4 class="baskerville text-center">{{ page.subtitle }}</h4>
+	{% endif %}
+	<br>
+	<div class="row">
+		<div class="col-md-6">
+			
+			<div class="baskerville text-justify">
+
+			{{ content | split: '<!--split-->' | first }}
+
+			</div>
+
+		</div>
+		<div class="col-md-6">
+			
+			<div class="baskerville text-justify">
+
+			{{ content | split: '<!--split-->' | last }}
+
+			</div>
+
+		</div>
+	</div>
+	<br>
+    <ul class="list-inline baskerville clearfix">
+        {% if page.previous %}
+        <li class="pull-left"><a href="{{ page.previous.url }}" class="no-link">&larr; Previous</a></li>
+        {% endif %}
+        {% if page.next %}
+        <li class="pull-right"><a href="{{ page.next.url }}" class="no-link">Next &rarr;</a></li>
+        {% endif %}
+    </ul>
+    <br>
+
+</div>

@@ -4,6 +4,15 @@
 /*
 /*****************************************************************************/
 
+.no-link, .no-link:hover{
+  color: inherit;
+}
+
+.title, .title:hover{
+  color: inherit;
+  text-decoration: none;
+}
+
 .baskerville
 {
   font-family: 'Baskerville Old Face', Baskerville, 'Hoefler Text', Garamond, 'Times New Roman', serif;
@@ -14,7 +23,25 @@
   font-size: 64px;
 }
 
-#home
+.content
 {
-	padding: 200px 0;
+	padding-top: 100px;
+}
+
+.grid-item
+{
+	margin-bottom: 30px;
+}
+
+.affix-top
+{
+	position: absolute;
+	top: 0px;
+	left: 75px;
+}
+
+.affix
+{
+	top: 50px;
+	left: 75px;
 }

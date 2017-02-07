@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div id="{{ page.pagename }}">
+
+	<div class="grid">
+
+        <!-- Placeholder -->
+		<div class="grid-sizer col-md-1"></div>
+
+        {% for post in site.posts reversed %}
+		<div class="grid-item col-md-4">
+            <div class="grid-item-content">
+                <h4 class="baskerville text-center"><a href="{{ post.url }}" class="no-link">{{ post.title }}</a></h4>
+                <a href="{{ post.url }}"><img src="{{ site.s3url }}/img/{{ page.pagename }}/{{ post.image }}.jpg" class="img-responsive center-block"></a>
+            </div>
+        </div>
+        {% endfor %}
+	</div>
+
+</div>

@@ -2,6 +2,8 @@ name: Athina Lugez Photography
 exclude: ["README.md", "Gemfile", "Gemfile.lock", "CNAME"]
 timezone: Europe/London
 
+s3url: https://s3.amazonaws.com/athinalugezphotography
+
 gems:
   - jekyll-sitemap
 
