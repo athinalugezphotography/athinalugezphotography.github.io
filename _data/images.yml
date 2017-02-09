@@ -11,11 +11,11 @@ studio:
     size: 4
   - name: ida2
     size: 4
-  - name: fad
-    size: 4
   - name: dandy1 
     size: 4
   - name: dandy2
+    size: 4
+  - name: fad
     size: 4
   - name: clydaad
     size: 8
