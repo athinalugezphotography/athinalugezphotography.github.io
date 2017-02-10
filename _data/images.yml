@@ -30,9 +30,9 @@ street:
     size: 4
   - name: kids2
     size: 4
-  - name: kids2.0
+  - name: kids.2.0
     size: 4
-  - name: kids3.0
+  - name: kids.3.0
     size: 4
   - name: kids4
     size: 4
