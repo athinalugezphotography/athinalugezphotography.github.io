@@ -29,11 +29,36 @@
     </head>
     <body>
 
+    <div class="navbar navbar-default navbar-fixed-top baskerville visible-xs" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">
+                    <span class="title">Athina Lugez</span>
+                </a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/" class="btn btn-link no-link"><small>Home</small></a></li>
+                    <li><a href="/studio" class="btn btn-link no-link"><small>Studio</small></a></li>
+                    <li><a href="/street" class="btn btn-link no-link"><small>Street</small></a></li>
+                    <li><a href="/blog" class="btn btn-link no-link"><small>Blog</small></a></li>
+                    <li><a href="/contact" class="btn btn-link no-link"><small>Contact</small></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
     <div class="content">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-3">
-                    <div class="baskerville text-center" data-spy="affix" data-offset-top="50">
+                <div class="col-sm-3 hidden-xs">
+                    <div class="baskerville text-center" data-spy="affix" data-offset-top="0">
                         <h2><a href="/" class="title">Athina Lugez<br>Photography</a></h2>
                         <hr>
                         <ul class="nav">
@@ -45,7 +70,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-md-9">
+                <div class="col-sm-9">
                     {{ content }}
                 </div>
             </div>

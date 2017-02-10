@@ -7,10 +7,10 @@ layout: default
 	<div class="grid">
 
         <!-- Placeholder -->
-		<div class="grid-sizer col-md-1"></div>
+		<div class="grid-sizer col-sm-1"></div>
 
         {% for image in site.data.images[page.pagename] %}
-		<div class="grid-item col-md-{{ image.size }}">
+		<div class="grid-item col-sm-{{ image.size }}">
             <div class="grid-item-content">
                 <img src="{{ site.s3url }}/img/{{ page.pagename }}/{{ image.name }}.jpg" class="img-responsive center-block">
             </div>
