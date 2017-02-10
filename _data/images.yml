@@ -27,15 +27,15 @@ studio:
 street:
 
   - name: kids1
-    size: 6
+    size: 4
   - name: kids2
-    size: 6
+    size: 4
   - name: kids.2.0
-    size: 6
+    size: 4
   - name: kids.3.0
-    size: 6
+    size: 4
   - name: kids4
-    size: 6
+    size: 4
   - name: Athina_Lugez_photos01
     size: 4
   - name: Athina_Lugez_photos02
