@@ -6,11 +6,11 @@ home:
 studio:
 
   - name: edeline1
-    size: 2
+    size: 4
   - name: edeline2
-    size: 2
+    size: 4
   - name: edeline3
-    size: 2
+    size: 4
   - name: ida1
     size: 4
   - name: text-ida
