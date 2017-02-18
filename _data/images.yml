@@ -5,6 +5,12 @@ home:
 
 studio:
 
+  - name: edeline1
+    size: 6
+  - name: edeline2
+    size: 6
+  - name: edeline3
+    size: 6
   - name: ida1
     size: 4
   - name: text-ida
@@ -23,6 +29,7 @@ studio:
     size: 6
   - name: dayna3
     size: 6
+    
 
 street:
 
