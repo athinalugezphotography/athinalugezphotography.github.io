@@ -17,9 +17,9 @@ studio:
     size: 4
   - name: ida2
     size: 4 
-  - name: dandy2
+  - name: dandy1
     size: 4
-  - name: dandy1 
+  - name: dandy2 
     size: 4
   - name: dandy3
     size: 6
