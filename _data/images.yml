@@ -16,7 +16,9 @@ studio:
   - name: text-ida
     size: 4
   - name: ida2
-    size: 4
+    size: 4 
+  - name: dandytext
+    size: 2
   - name: dandy2
     size: 4
   - name: dandy1 
