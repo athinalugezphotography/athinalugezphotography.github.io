@@ -5,8 +5,6 @@ home:
 
 studio:
 
-  - name: id
-    size: 4
   - name: ed1
     size: 4
   - name: ed2
