@@ -13,7 +13,7 @@ studio:
     size: 4
   - name: ida1
     size: 4
-  - name: text-ida
+  - name: ida
     size: 4
   - name: idadone
     size: 4  
