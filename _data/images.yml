@@ -14,7 +14,7 @@ studio:
   - name: drawingdark
     size: 4
   - name: idadark
-    size: 4 
+    size: 6 
   - name: blues
     size: 4
   - name: text-ida
