@@ -11,10 +11,6 @@ studio:
     size: 4
   - name: ed2
     size: 4
-  - name: drawingdark
-    size: 2
-  - name: idadark
-    size: 2 
   - name: blues
     size: 4
   - name: text-ida
