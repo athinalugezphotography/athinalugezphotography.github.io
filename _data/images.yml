@@ -22,9 +22,9 @@ studio:
   - name: idadark
     size: 4
   - name: dandy1
-    size: 5
+    size: 3
   - name: dandy2 
-    size: 5
+    size: 3
   - name: text-dandy 
     size: 4
   - name: dandy3
