@@ -19,6 +19,8 @@ studio:
     size: 4
   - name: idadark1
     size: 6
+  - name: idadrawing
+    size: 2
   - name: idadark
     size: 4
   - name: dandy1
