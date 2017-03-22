@@ -5,12 +5,6 @@ home:
 
 studio:
 
-  - name: ed
-    size: 4
-  - name: ed1
-    size: 4
-  - name: ed2
-    size: 4
   - name: blues
     size: 4
   - name: text-ida
@@ -34,6 +28,12 @@ studio:
   - name: dandy3
     size: 4
   - name: emeric2 
+    size: 4
+  - name: ed
+    size: 4
+  - name: ed1
+    size: 4
+  - name: ed2
     size: 4
   - name: clydaad
     size: 12
