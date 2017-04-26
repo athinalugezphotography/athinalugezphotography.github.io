@@ -63,6 +63,15 @@ commercial:
     size: 4
   - name: orange_goat
     size: 4  
+  - name: pebbles_grey
+    size: 4
+  - name: rock_grey_yellow
+    size: 4
+  - name: rocks_grey
+    size: 4
+  - name: yellow_goat
+    size: 4  
+
 
 street:
 
