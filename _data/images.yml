@@ -53,6 +53,16 @@ studio:
 editorial:
 
 commercial:
+  - name: black_goat
+    size: 4
+  - name: drawing
+    size: 4
+  - name: motorbike
+    size: 4
+  - name: navy_drawing
+    size: 4
+  - name: orange_goat
+    size: 4  
 
 street:
 
