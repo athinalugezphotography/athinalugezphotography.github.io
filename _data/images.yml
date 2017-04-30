@@ -50,6 +50,7 @@ studio:
   - name: dayna3
     size: 6
 
+
 editorial:
 
 commercial:
@@ -80,6 +81,8 @@ commercial:
   - name: hand_goat_yellow
     size: 4
   - name: hand_orange
+    size: 4
+  - name: hand_motorbike
     size: 4
 
     
