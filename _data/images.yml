@@ -71,6 +71,16 @@ commercial:
     size: 4
   - name: yellow_goat
     size: 4  
+  - name: hand_blue
+    size: 4
+  - name: hand_pebbles
+    size: 4
+  - name: hand_navy
+    size: 4
+  - name: hand_goat_yellow
+    size: 4
+    
+    
 
 
 street:
