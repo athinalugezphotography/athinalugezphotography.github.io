@@ -73,10 +73,14 @@ commercial:
     size: 4  
   - name: daniela_navy
     size: 4
-  - name: pebbles_emeric
-    size: 4
   - name: white_emeric
     size: 4
+  - name: rock_emeric
+    size: 4
+  - name: goat_daniela
+    size: 4
+  - name: yellow_kate
+    size: 4  
   - name: hand_blue
     size: 4
   - name: hand_pebbles
@@ -89,6 +93,7 @@ commercial:
     size: 4
   - name: hand_yellow
     size: 4
+    
 
 street:
 
