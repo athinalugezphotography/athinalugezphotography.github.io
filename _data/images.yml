@@ -49,14 +49,14 @@ editorial:
     size: 6
   - name: 60s_1_web
     size: 6
-  - name: 60s_2_web
-    size: 4
   - name: shoes_60s
-    size: 8
+    size: 6
   - name: 60s_5_web
     size: 6
   - name: 60s_3_web
     size: 6
+  - name: 60s_2_web
+    size: 4
   - name: 60s_4_web
     size: 6
 
