@@ -50,13 +50,13 @@ editorial:
   - name: 60s_1_web
     size: 6
   - name: 60s_2_web
-    size: 4
+    size: 6
   - name: 60s_5_web
-    size: 4
+    size: 6
   - name: 60s_3_web
-    size: 4
+    size: 6
   - name: 60s_4_web
-    size: 4 
+    size: 6
 
 commercial:
   - name: still_life
