@@ -29,10 +29,8 @@ studio:
     size: 6
   - name: idadark 
     size: 6
-  - name: emeric2
-    size: 4
   - name: emeric
-    size: 4
+    size: 6
   - name: kate1
     size: 4
   - name: kate2
