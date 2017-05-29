@@ -51,6 +51,12 @@ studio:
     size: 6
 
 editorial:
+  - name: green_1
+    size: 4
+  - name: pink_2
+    size: 4
+  - name: purple_3
+    size: 4
 
 commercial:
   - name: black_goat
