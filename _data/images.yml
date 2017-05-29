@@ -33,8 +33,6 @@ studio:
     size: 6
   - name: kate1
     size: 6
-  - name: kate2
-    size: 4
   - name: kate3
     size: 4 
   - name: clydaad
