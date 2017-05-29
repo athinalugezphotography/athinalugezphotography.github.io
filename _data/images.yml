@@ -51,6 +51,8 @@ editorial:
     size: 6
   - name: 60s_2_web
     size: 6
+  - name: shoes_60s
+    size: 6
   - name: 60s_5_web
     size: 6
   - name: 60s_3_web
