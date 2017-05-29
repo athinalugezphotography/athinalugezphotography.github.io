@@ -1,7 +1,9 @@
 home:
 
   - name: home1
-    size: 12
+    size: 6
+  - name: home2
+    size: 6
 
 studio:
 
