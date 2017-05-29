@@ -57,6 +57,14 @@ editorial:
     size: 4
   - name: purple_3
     size: 4
+  - name: 60s_1_web
+    size: 4
+  - name: 60s_2_web
+    size: 4
+  - name: 60s_3_web
+    size: 4
+  - name: 60s_4_web
+    size: 4
 
 commercial:
   - name: black_goat
