@@ -57,6 +57,8 @@ editorial:
     size: 4 
 
 commercial:
+  - name: clydaad
+    size: 12
   - name: black_goat
     size: 4
   - name: drawing
