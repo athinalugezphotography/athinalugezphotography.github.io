@@ -59,6 +59,8 @@ editorial:
     size: 4
   - name: 60s_4_web
     size: 6
+  - name: 60s_6_web
+    size: 4
 
 commercial:
   - name: still_life
