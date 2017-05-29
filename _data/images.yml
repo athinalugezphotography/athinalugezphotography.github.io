@@ -19,14 +19,11 @@ studio:
     size: 6
   - name: d_6_web
     size: 6
-    
-  - name: d_5_web
-    size: 4
-  - name: blues
-    size: 4
   - name: text-ida
     size: 4
-  - name: blues1
+  - name: bluesida_1
+    size: 4
+  - name: bluesida_2
     size: 4
   - name: idadark1
     size: 6
