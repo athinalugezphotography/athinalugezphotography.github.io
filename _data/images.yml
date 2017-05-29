@@ -65,6 +65,8 @@ editorial:
     size: 4
   - name: 60s_4_web
     size: 4
+  - name: 60s_5_web
+    size: 4
 
 commercial:
   - name: black_goat
