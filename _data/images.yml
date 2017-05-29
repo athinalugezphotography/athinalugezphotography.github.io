@@ -17,6 +17,8 @@ studio:
     size: 6
   - name: d_5_web
     size: 6
+  - name: d_6_web
+    size: 6
     
   - name: d_5_web
     size: 4
