@@ -47,21 +47,7 @@ editorial:
     size: 6
   - name: orange_4
     size: 6
-  - name: 60s_1_web
-    size: 6
-  - name: shoes_60s
-    size: 6
-  - name: 60s_5_web
-    size: 6
-  - name: 60s_3_web
-    size: 6
-  - name: 60s_2_web
-    size: 4
-  - name: 60s_4_web
-    size: 6
-  - name: 60s_6_web
-    size: 4
-
+ 
 commercial:
   - name: still_life
     size: 12
