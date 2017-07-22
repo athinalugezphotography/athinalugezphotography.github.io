@@ -111,10 +111,6 @@ commercial:
     size: 4
   - name: HP_ge0_2
     size: 4
-  - name: HP_marble_1
-    size: 4
-  - name: HP_marble_2
-    size: 4
     
 
 street:
