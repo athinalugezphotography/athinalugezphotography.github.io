@@ -113,6 +113,8 @@ commercial:
     size: 4
   - name: HP_marble_pink
     size: 4
+  - name: HP_leopard_purple
+    size: 4
     
 street:
 
