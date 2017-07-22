@@ -108,7 +108,7 @@ commercial:
   - name: hand_yellow
     size: 4
   - name: HP_banner
-    size: 8
+    size: 12
   - name: HP_geo_1
     size: 4
   - name: HP_ge0_2
