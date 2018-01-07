@@ -35,10 +35,6 @@ studio:
     size: 6
   - name: purple_3
     size: 6
-  - name: orange_4
-    size: 6
-  - name: dayna2
-    size: 6
  
 commercial:
   - name: still_life
