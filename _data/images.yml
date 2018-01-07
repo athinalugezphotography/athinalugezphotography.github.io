@@ -29,12 +29,6 @@ studio:
     size: 6
   - name: kate1
     size: 6
-  - name: dayna2
-    size: 6
-  - name: dayna3
-    size: 6
-
-editorial:
   - name: green_1
     size: 6
   - name: pink_2
@@ -42,6 +36,8 @@ editorial:
   - name: purple_3
     size: 6
   - name: orange_4
+    size: 6
+  - name: dayna2
     size: 6
  
 commercial:
