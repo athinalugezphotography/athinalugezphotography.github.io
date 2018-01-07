@@ -9,8 +9,6 @@ studio:
 
   - name: d_2_web
     size: 6
-  - name: d3_web
-    size: 6
   - name: d4_web
     size: 6
   - name: d_5_web
