@@ -7,8 +7,6 @@ home:
 
 studio:
 
-  - name: d1_web
-    size: 6
   - name: d_2_web
     size: 6
   - name: d3_web
