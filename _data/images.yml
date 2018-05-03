@@ -69,12 +69,6 @@ commercial:
     size: 4
   - name: yellow_kate
     size: 4  
-  - name: hand_pebbles
-    size: 4
-  - name: hand_navy_red
-    size: 4
-  - name: hand_goat_yellow
-    size: 4
   - name: HP_banner
     size: 12
   - name: HP_geo_1
