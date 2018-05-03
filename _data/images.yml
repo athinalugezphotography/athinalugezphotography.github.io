@@ -69,8 +69,6 @@ commercial:
     size: 4
   - name: yellow_kate
     size: 4  
-  - name: HP_banner
-    size: 12
   - name: HP_geo_1
     size: 4
   - name: HP_ge0_2
