@@ -39,8 +39,6 @@ studio:
     size: 6
  
 commercial:
-  - name: still_life
-    size: 12
   - name: black_goat
     size: 4
   - name: drawing
