@@ -42,7 +42,10 @@ commercial:
   - name: Sweaty_Betty
     size: 6
   - name: sweaty_Betty_2
-    size: 6   
+    size: 6
+  - name: sweatybetty3
+    size: 6 
+    
   - name: black_goat
     size: 4
   - name: drawing
