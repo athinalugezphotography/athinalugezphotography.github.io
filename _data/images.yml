@@ -39,6 +39,8 @@ studio:
     size: 6
  
 commercial:
+  - name: Sweaty Betty 
+    size: 6
   - name: black_goat
     size: 4
   - name: drawing
