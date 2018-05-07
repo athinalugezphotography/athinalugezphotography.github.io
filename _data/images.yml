@@ -39,18 +39,7 @@ studio:
     size: 6
  
 commercial:
-  - name: Sweaty_Betty
-    size: 6
-  - name: sweaty_Betty_2
-    size: 6
-  - name: sweatybetty3
-    size: 6 
-  - name: j
-    size: 6 
-  - name: hobbs
-    size: 6 
-    
-    
+
   - name: black_goat
     size: 4
   - name: drawing
