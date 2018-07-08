@@ -40,48 +40,12 @@ editorial:
  
 commercial:
 
-  - name: black_goat
+  - name: J1
     size: 4
-  - name: drawing
+  - name: J2
     size: 4
-  - name: motorbike
-    size: 4
-  - name: navy_drawing
-    size: 4
-  - name: orange_goat
-    size: 4  
-  - name: pebbles_grey
-    size: 4
-  - name: rock_grey_yellow
-    size: 4
-  - name: rocks_grey
-    size: 4
-  - name: yellow_goat
-    size: 4  
-  - name: daniela_navy
-    size: 4
-  - name: pebbles_emeric
-    size: 4
-  - name: white_emeric
-    size: 4
-  - name: rock_emeric
-    size: 4
-  - name: goat_daniela
-    size: 4
-  - name: yellow_kate
-    size: 4  
-  - name: HP_geo_1
-    size: 4
-  - name: HP_ge0_2
-    size: 4
-  - name: HP_marble_1
-    size: 4
-  - name: HP_palm_leaves
-    size: 4
-  - name: HP_marble
-    size: 4
-  - name: HP_leopard_purple
-    size: 4
+    
+ 
     
 street:
 
