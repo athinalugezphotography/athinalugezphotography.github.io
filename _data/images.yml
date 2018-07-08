@@ -38,10 +38,10 @@ editorial:
     size: 6
   - name: kate1
     size: 6
-  - name: green_1
-    size: 6
   - name: Published in Poorboy Magazine
     size: 0
+  - name: green_1
+    size: 6
   - name: pink_2
     size: 6
   - name: purple_3
