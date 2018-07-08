@@ -64,9 +64,15 @@ commercial:
     size: 0
   - name: HP2
     size: 12
+  - name: New Look
+    size: 0
+  - name: NL1
+    size: 4
+  - name: NL2
+    size: 4
+  - name: NW3
+    size: 4
     
-    
-
 street:
 
   - name: kids1
