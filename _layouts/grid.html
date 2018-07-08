@@ -10,11 +10,19 @@ layout: default
 		<div class="grid-sizer col-sm-1"></div>
 
         {% for image in site.data.images[page.pagename] %}
-		<div class="grid-item col-sm-{{ image.size }}">
-            <div class="grid-item-content">
-                <img src="{{ site.s3url }}/img/{{ page.pagename }}/{{ image.name }}.jpg" class="img-responsive center-block">
+            {% if image.size == 0 %}
+            <div class="grid-item col-sm-12">
+                <div class="grid-item-content">
+                    <h4 class="baskerville">{{ image.name }}</h4>
+                </div>
             </div>
-        </div>
+            {% else %}
+    		<div class="grid-item col-sm-{{ image.size }}">
+                <div class="grid-item-content">
+                    <img src="{{ site.s3url }}/img/{{ page.pagename }}/{{ image.name }}.jpg" class="img-responsive center-block">
+                </div>
+            </div>
+            {% endif %}
         {% endfor %}
 	</div>
 
