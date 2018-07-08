@@ -61,6 +61,10 @@ commercial:
     size: 0
   - name: H1
     size: 12
+  - name: H2
+    size: 6
+  - name: H3
+    size: 6
   - name: Sweaty Betty
     size: 0
   - name: S1
