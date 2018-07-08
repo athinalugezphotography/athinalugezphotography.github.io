@@ -23,7 +23,7 @@ editorial:
   - name: d4_web
     size: 6
   - name: d_5_web
-    size: 6
+    size: 5
   - name: M1
     size: 10
   - name: text-ida
