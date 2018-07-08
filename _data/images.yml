@@ -40,20 +40,19 @@ editorial:
  
 commercial:
 
+  - name: Jaeger
+    size: 0
   - name: J1
     size: 4
   - name: J2
     size: 4
   - name: J3
     size: 4
+  - name: Hunter
+    size: 0
   - name: H1
     size: 12
 
-    
-
-    
- 
-    
 street:
 
   - name: kids1
