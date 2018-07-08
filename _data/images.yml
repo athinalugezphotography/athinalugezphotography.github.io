@@ -1,8 +1,8 @@
 home:
 
-  - name: home1
+  - name: HOME1
     size: 6
-  - name: home2
+  - name: HOME2
     size: 6
 
 editorial:
