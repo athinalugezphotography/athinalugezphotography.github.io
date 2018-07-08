@@ -26,10 +26,8 @@ editorial:
     size: 6
   - name: M1
     size: 10
-  - name: d_6_web
-    size: 6
   - name: text-ida
-    size: 4
+    size: 6
   - name: bluesida_1
     size: 4
   - name: idadark 
