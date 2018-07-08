@@ -73,6 +73,8 @@ commercial:
     size: 0
   - name: HP2
     size: 12
+  - name: HP3
+    size: 10
   - name: New Look
     size: 0
   - name: NL1
