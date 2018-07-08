@@ -8,9 +8,13 @@ home:
 editorial:
   - name: A Room of One's Own - Editorial published in Dreamingless Magazine. 
   - name: ED4
-    size: 6
+    size: 4
   - name: ED3
-    size: 12
+    size: 4
+  - name: ED1
+    size: 4
+  - name: ED2
+    size: 4
     
     size: 12
   - name: mars_still_life
