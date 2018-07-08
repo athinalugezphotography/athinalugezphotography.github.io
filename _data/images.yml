@@ -89,6 +89,12 @@ commercial:
     size: 4
   - name: EV3
     size: 4
+  - name: EV4
+    size: 4
+  - name: EV5
+    size: 4
+  - name: EV6
+    size: 4
     
 street:
 
