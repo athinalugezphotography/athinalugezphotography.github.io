@@ -15,8 +15,6 @@ editorial:
     size: 6
   - name: ED3
     size: 6
-  - name: ED2
-    size: 4
   - name: M1
     size: 12
   - name: d_2_web
