@@ -40,6 +40,12 @@ editorial:
     
 commercial:
 
+  - name: nl1
+    size: 4
+  - name: nl2
+    size: 4
+  - name: nl3
+    size: 4
   - name: Harper and Blake Accessories
     size: 0
   - name: HP2
