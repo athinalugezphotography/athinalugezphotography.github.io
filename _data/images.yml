@@ -40,6 +40,8 @@ editorial:
     
 commercial:
 
+  - name: New Look
+    size: 0
   - name: nl1
     size: 4
   - name: nl2
