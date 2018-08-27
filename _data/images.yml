@@ -13,10 +13,6 @@ editorial:
     size: 6
   - name: moon
     size: 6
-  - name: ED4
-    size: 6
-  - name: ED3
-    size: 6
   - name: M1
     size: 12
   - name: d_2_web
@@ -24,6 +20,10 @@ editorial:
   - name: d4_web
     size: 5
   - name: d_5_web
+    size: 5
+  - name: ED4
+    size: 5
+  - name: ED3
     size: 5
   - name: text-ida
     size: 6
