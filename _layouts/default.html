@@ -97,6 +97,7 @@
     <!-- Masonry JS -->
     <script src="/js/masonry.pkgd.min.js"></script>
 
+    {% if page.title != "Home" %}
     <script>
 
         var $grid = $('.grid').masonry({
@@ -118,6 +119,7 @@
         });
 
     </script>
+    {% endif %}
 
     </body>
 </html>
