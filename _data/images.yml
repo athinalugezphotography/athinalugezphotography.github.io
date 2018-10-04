@@ -4,6 +4,9 @@ home:
     size: 6
   - name: HOME2
     size: 6
+  - name: Isabelle_2
+    size: 6
+    
 
 editorial:
 
