@@ -24,13 +24,15 @@ difference together. It was an accomplishment to learn how to build stairs and r
 Living conditions were not always easy, yet the act of squatting fit their anti-establishment views. Residents of the squats were advocates for the basic human right to possess a rooftop that wouldn’t collapse and for improving conditions in low-income housing.
 
 “The simple act of living in this space was a form of activism,” Thayer asserted.
-<!--split-->
+
+***
+
 The Lower East Side’s Scene
 
 The LES was also a cradle for punk rock subculture. Thayer explained that living in the squats increasingly exposed her to punk music and social activism. The subjects that appear in her photographs are her friends. Her goal was to capture the community surrounding her.
 
 “I was photographing what was meaningful in my life. I had teachers who told me, ‘photograph what’s the most important thing in life to you,’ so that, to me, [was] the community that I was involved in,” Thayer explained.
-
+<!--split-->
 Thayer’s images portray the punk concerts that took place place in basements, the communal restoration of the tenement buildings, the eccentric vibrancy of her community and their DIY ethics.
 
 Her photographs also highlight how women within the scene fought against mainstream social definitions of beauty and femininity. Women rocked androgynous looks by sporting concert T-shirts or work uniforms with steel-toe boots.

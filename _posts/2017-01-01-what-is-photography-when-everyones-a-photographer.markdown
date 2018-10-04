@@ -21,11 +21,11 @@ Exploring this theme at the upcoming biennial photography festival Le Mois de la
 A wide range of interests and aesthetics will be displayed during the biennial event, which will feature international and Canadian artists, including many emerging artists. The topics range from the history of photography to recent contemporary art, as well as the exploration of identity, memory, and truth to social and urban environment.
 
 Photography has historically served to embody the “truth claim,” a term coined by art historian and professor Tom Gunning, implying that traditional photography was a way to accurately depict reality. The camera was a new technology used to convey truth and record a memory while representing a symbolic appropriation of the world.
-<!--split-->
+
 However, Fontcuberta broke this convention of photographic truth in 1984 by distorting the nature of images with Fauna, a project in which he invented and captured mysterious, unclassified species while claiming the images to have been the works of fictional zoologist Dr. Ameisenhaufen, who supposedly disappeared in 1955. By manipulating images and scenarios, his goal was to showcase how truth was not an absolute concept, but a power construct.
 
 “I was obsessed with the issue of truth because I was born in Spain during Franco’s dictatorship and my youth was spent under censorship,” Fontcuberta explained.
-
+<!--split-->
 “Photography at that time was still quite a convincing tool to provide evidence, but I was convinced the images circulating at the time were not a transcription of reality nor a mirror image of the world. Truth was manipulated constantly because of interest in changing public opinion.”
 
 The situation today has changed, with the world “invaded” by the Internet, social networks, cellphones and surveillance cameras, he says. Still, there’s great interest in unveiling the possibility of falsifying photographic evidence.

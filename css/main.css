@@ -23,9 +23,14 @@
   font-size: 64px;
 }
 
-.content
+.header
 {
 	padding-top: 50px;
+}
+
+.content
+{
+	padding: 50px;
 }
 
 .grid-item
@@ -48,5 +53,18 @@
 
 .carousel-control.left, .carousel-control.right
 {
-    background-image: none
+    background-image: none;
+}
+
+.carousel-control .icon-prev,
+.carousel-control .icon-next {
+  font-family: inherit;
+  color: #000;
+}
+
+.carousel-control .icon-prev:before {
+  content: '\2190';
+}
+.carousel-control .icon-next:before {
+  content: '\2192';
 }

@@ -40,42 +40,43 @@
                     <span class="icon-bar"></span>
                 </button>
                 <a class="navbar-brand" href="/">
-                    <span class="title">Athina Lugez</span>
+                    <span class="title">athina lugez</span>
                 </a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a href="/" class="btn btn-link no-link"><small>Home</small></a></li>
-                    <li><a href="/editorial" class="btn btn-link no-link"><small>Editorial</small></a></li>
-                    <li><a href="/commercial" class="btn btn-link no-link"><small>Commercial</small></a></li>
-                    <li><a href="/street" class="btn btn-link no-link"><small>Street</small></a></li>
-                    <li><a href="/diary" class="btn btn-link no-link"><small>Diary</small></a></li>
-                    <li><a href="/blog" class="btn btn-link no-link"><small>Blog</small></a></li>
-                    <li><a href="/contact" class="btn btn-link no-link"><small>Contact</small></a></li>
+                    <li><a href="/about" class="btn btn-link no-link"><small>about</small></a></li>
+                    <li><a href="/blog" class="btn btn-link no-link"><small>blog</small></a></li>
+                    <li><a href="mailto:athinalugez@gmail.com" class="btn btn-link no-link"><small>contact</small></a></li>
+                    <li><a href="http://www.instagram.com/athinalugez" target="_blank" class="btn btn-link no-link"><small>social</small></a></li>
                 </ul>
             </div>
         </div>
     </div>
 
-    <div class="content">
-        <div class="container-fluid">
+    <div class="container-fluid hidden-xs">
+        <div class="header">
             <div class="row">
-                <div class="col-sm-3 hidden-xs">
-                    <div class="baskerville text-center" data-spy="affix" data-offset-top="0">
-                        <h2><a href="/" class="title">Athina Lugez<br>Photography</a></h2>
+                <div class="col-sm-4 col-sm-offset-4">
+                    <div class="baskerville text-center">
+                        <h2><a href="/" class="title">athina lugez</a></h2>
                         <hr>
-                        <ul class="nav">
-                            <li><h4><a href="/" class="no-link">Home</a></h4></li>
-                            <li><h4><a href="/editorial" class="no-link">Editorial</a></h4></li>
-                            <li><h4><a href="/commercial" class="no-link">Commercial</a></h4></li>
-                            <li><h4><a href="/street" class="no-link">Street</a></h4></li>
-                            <li><h4><a href="/diary" class="no-link">Diary</a></h4></li>
-                            <li><h4><a href="/blog" class="no-link">Blog</a></h4></li>
-                            <li><h4><a href="/contact" class="no-link">Contact</a></h4></li>
-                        </ul>
+                        <div class="btn-group btn-group-justified">
+                            <a href="/about" class="btn btn-link no-link">about</a>
+                            <a href="/blog" class="btn btn-link no-link">blog</a>
+                            <a href="mailto:athinalugez@gmail.com" class="btn btn-link no-link">contact</a>
+                            <a href="http://www.instagram.com/athinalugez" target="_blank" class="btn btn-link no-link">social</a>
+                        </div>
                     </div>
                 </div>
-                <div class="col-sm-9">
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="content">
+            <div class="row">
+                <div class="col-sm-6 col-sm-offset-3">
                     {{ content }}
                 </div>
             </div>
@@ -84,7 +85,7 @@
 
     <div class="container-fluid">
         <div class="footer">
-            <p class="baskerville text-right"><small>Athina Lugez &copy; 2018</small></p>
+            <p class="baskerville text-center"><small>Athina Lugez &copy; 2018</small></p>
         </div>
     </div>
 
@@ -97,7 +98,7 @@
     <!-- Masonry JS -->
     <script src="/js/masonry.pkgd.min.js"></script>
 
-    {% if page.title != "Home" %}
+    {% if page.title == "Blog" %}
     <script>
 
         var $grid = $('.grid').masonry({

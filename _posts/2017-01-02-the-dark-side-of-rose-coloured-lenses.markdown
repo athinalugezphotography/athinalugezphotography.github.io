@@ -19,9 +19,9 @@ As a photographer, Mosse isn’t easy to categorize.
 “But he’s not interested in that kind of framework,” Sim continued. “He distances himself from that surrounding to gain freedom, to push into questioning […] how to find new ways to chronicle and what the problems are in that process.”
 
 Mosse strives to break the strict conventions of photojournalism by casting aside the standard black-and-white and RBG models that have long defined the documentary photographic approach. Instead, he opted to capture landscapes, people and hidden objects using Kodak Aerochrome III, a type of now-discontinued infrared film that caused dense tree cover to appear in a monochrome hot pink.
-<!--split-->
-Aside from being an interesting aesthetic choice, there’s also a certain symbolic value in using Kodak Aerochrome film. Developed during the 1940s by the U.S. military, it was widely used for camouflage detection and aerial surveillance during the Vietnam War.
 
+Aside from being an interesting aesthetic choice, there’s also a certain symbolic value in using Kodak Aerochrome film. Developed during the 1940s by the U.S. military, it was widely used for camouflage detection and aerial surveillance during the Vietnam War.
+<!--split-->
 “It detects the chlorophyll present in healthy green plants. When the film is developed, it transforms the green into pink, making camouflage much easier to recognize,” said Sim, adding that it also became popular in the music scene during the 1960s, when it was used to create psychedelic album covers for musicians like Jimi Hendrix.
 
 This creative choice calls into question the notion of photographic truth—the idea that photography is the most accurate means of capturing the world. As Sim notes, the film “turns the invisible into the visible.”

@@ -19,11 +19,11 @@ Surrealism solidified the reputation of notable photographers such as Man Ray, L
 “Surrealists believed that they could tap into the unconscious [as devised by Freud], to enter into more poetical feelings. They […] became interested by the discoveries of how the unconscious works.”
 
 Surrealist photographers managed to overcome the realistic limitations of photography, using it to create images that are symbolic depictions of the unconscious mind’s psychosis, the representations of dreams, taboo sexual fantasies and intoxicated hallucinations. Photography became a medium for surrealism to break down reality.
-<!--split-->
+
 “Photography was a very realistic tool that wanted to show the surface of things. Surrealism made photography go beyond that surface and showcase what lay beneath,” explained Walker.
 
 “Images became more powerful because they had an underlying meaning. Documentary photographs that caught accidents or coincidences were taken to manipulate and break down the sense of complete reality.”
-
+<!--split-->
 The movement allowed for implicated artists to experiment in search of new artistic techniques. Photomontage became a popular processing technique that consisted of coupling images together. Multiple exposure, another technique of surrealism, superimposed two or more images to make one.
 
 The Sabbatier solarization effect, discovered by Lee Miller, became a remarkable lighting style that flushed light on a photograph, creating a dramatic effect. These techniques became surrealist photography’s prime focus.
