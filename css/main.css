@@ -51,9 +51,16 @@
 	left: 75px;
 }
 
+.image-item img
+{
+  width: auto;
+  height: 320px;
+  max-height: 320px;
+}
+
 .carousel-control.left, .carousel-control.right
 {
-    background-image: none;
+  background-image: none;
 }
 
 .carousel-control .icon-prev,

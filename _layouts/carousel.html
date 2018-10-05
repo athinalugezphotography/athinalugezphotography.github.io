@@ -10,13 +10,13 @@ layout: default
             {% for image in site.data.images[page.pagename] %}
                 {% if forloop.first %}
                 <div class="item active">
-                    <div class="col-sm-6 col-sm-offset-3">
+                    <div class="image-item">
                         <img src="{{ site.s3url }}/img/{{ page.pagename }}/{{ image.name }}.jpg" class="img-responsive center-block">
                     </div>
                 </div>
                 {% else %}
                 <div class="item">
-                    <div class="col-sm-6 col-sm-offset-3">
+                    <div class="image-item">
                         <img src="{{ site.s3url }}/img/{{ page.pagename }}/{{ image.name }}.jpg" class="img-responsive center-block">
                     </div>
                 </div>
